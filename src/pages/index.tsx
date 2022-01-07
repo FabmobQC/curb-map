@@ -374,6 +374,8 @@ class Map extends React.Component<PageProps, {}> {
           type: "geojson",
           data: renderCurblrData(
             this.props.curblr.data,
+            this.state.month,
+            this.state.dayOfMonth,
             this.state.dayOfWeek,
             this.state.time,
             this.state.mode
