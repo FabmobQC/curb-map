@@ -1,7 +1,7 @@
 export default {
   'index.start': 'Getting Started',
   'STATIONNEMENTS_PLAZA_SAINT_HUBERT': 'Plaza Saint-Hubert parking',
-  'DONNEZ_NOUS_VOTRE_AVIS': 'Guive us your feedback',
+  'DONNEZ_NOUS_VOTRE_AVIS': 'Give us your feedback',
   'DONNEES_A_AFFICHER': 'Data to display',
   'January': 'January',
   'February': 'February',
